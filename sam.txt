@@ -1,0 +1,10 @@
+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
+
+
+
+
+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
+
+
+
+git@github.com:dhurvemayu/sql_query.git
